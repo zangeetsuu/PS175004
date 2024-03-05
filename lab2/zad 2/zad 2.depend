@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709679949 source:c:\users\kaspe\desktop\zad2\zad 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1709678752 source:c:\users\kaspe\desktop\zad2\zad 2\z2.c
+	<stdio.h>
+	<stdlib.h>
+
