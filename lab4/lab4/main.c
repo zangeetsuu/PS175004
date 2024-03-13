@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("%i \n",w424(6,7));
+    printf("%i \n",w423(6,7));
     return 0;
 }
 
@@ -15,3 +15,5 @@ int w424(int a, int b){
         return 0;
     }
 }
+
+
