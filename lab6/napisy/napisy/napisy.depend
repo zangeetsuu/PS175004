@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712313519 source:c:\users\local\documents\github\ps175004\lab6\napisy\napisy\main.c
+	<stdio.h>
+	<stdlib.h>
+
