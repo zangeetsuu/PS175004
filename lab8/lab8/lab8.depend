@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1712741452 source:d:\175271\ps175004\lab8\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712741426 source:d:\175271\ps175004\lab8\lab8\zadanie dodatkowe.c
+	<stdio.h>
+	<stdlib.h>
+
